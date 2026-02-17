@@ -1,0 +1,40 @@
+1)theory+NLP concepts:stemming,tokenization and bag of words
+2)create training data
+3)pytorch model and training
+4)save/load model and implement the chat
+
+feedforward NN with two hidden layers.
+It is for begineers for basic chatting
+
+Image 1
+with training data we have to use deep learning data
+we cannot put directly string into model
+we have to convert string into vector which contains numbers
+so for this we are going to use concept of bag of words
+if we wanted to apply bag of words we have to collect all words from the patterns
+all different patterns will be put as single words in arrays
+splitting our string into array
+
+Image2
+there will be all words 
+but as per our pattern if that word matches to all words it will return 1 otherwise 0
+
+Image3
+words are in the vector form as input for feed forword neuralnet
+output will be diff probabilities on diff classes
+
+for getting string into vector we are applying two more methods
+tokenization and stemming
+
+Image4
+tokenization: splitting a string into meaningful units
+units words, punctuation characters and numbers ho sakte hai
+
+Image5
+stemming: means to take out root word from different words
+results will differ because there are so many stemmers so based on which stemmer you apply it will give answer
+in this we might loose actual meaning of words so we have to be careful about it
+
+
+nltk_utils,model,intents - attached to train.py
+train - attached to chat.py
