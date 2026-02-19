@@ -1,6 +1,6 @@
 # Chatbot using CNN 🤖
 
-A simple **chatbot application** built with a **Convolutional Neural Network (CNN)** that classifies user input into predefined intents and generates relevant responses. This project demonstrates how deep learning can be used for **basic conversational AI**. ([GitHub][1])
+A simple **chatbot application** built with a **Convolutional Neural Network (CNN)** that classifies user input into predefined intents and generates relevant responses. This project demonstrates how deep learning can be used for **basic conversational AI**. 
 
 ## 🔍 Features
 
@@ -64,5 +64,5 @@ This project is perfect for beginners learning:
 ✅ Building AI-powered chat systems
 
 
-## Generated from Youtube for understanding basis:
+## Generated from Youtube for understanding purpose:
 https://github.com/patrickloeber 
